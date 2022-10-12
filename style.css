@@ -1,0 +1,17 @@
+#camera {
+    width: 500px; 
+    height: 400px; 
+    border-radius: 10px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.img:hover{
+    border-radius: 140px;
+}
+
